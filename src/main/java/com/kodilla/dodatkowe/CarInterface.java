@@ -1,9 +1,8 @@
 package com.kodilla.dodatkowe;
 
 public interface CarInterface {
-    static String jedz()
+   static void jedz()
     {
-       // System.out.println( "Jade z Interface'u!!!");
-       return "Jade z Interface'u!!!";
+       System.out.println("Jade z Interface'u!!!");
     }
 }
