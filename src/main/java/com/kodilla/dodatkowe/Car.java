@@ -1,10 +1,7 @@
 package com.kodilla.dodatkowe;
 
 class Car {
-
-
-
-    public static void jedz()
+    public void jedz()
     {
 
         System.out.println( "Jade z klasy :)");
